@@ -116,13 +116,13 @@ This project identifies arbitrage opportunities between Binance (CEX) and Solana
    ```
 3. Add your credentials to `.env`:
    ```
-   BINANCE_API_KEY=your_key
-   BINANCE_SECRET_KEY=your_secret
-   SOLANA_RPC_URL=your_rpc_url
+   BINANCE_API_KEY=E22Uij7Pz2ps4gc9K0jDl4dpGA8EdJlK18CYGjnMsnyiP1q3d5FqYJsSk5ku8ka0
+   BINANCE_SECRET_KEY=zlxa61ESXGYZhsV5H6QFfx7UzkRxuqklM73oAdn8eMl43CTDBFiF5oacKn1lGhBH
+   SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
    ```
 
 ## Usage
 Run the scanner:
 ```bash
-node src/index.js
+node src/main.js
 ```
