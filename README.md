@@ -126,7 +126,3 @@ Run the scanner:
 ```bash
 node src/index.js
 ```
-
-## License
-MIT License
-```
